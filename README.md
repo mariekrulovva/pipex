@@ -3,6 +3,7 @@
 
 The purpose of this project is the discovery in detail UNIX mechanism - `pipe`.<br>
 You can read task: [`pipex.subject.pdf`](subject/en.subject.pdf) 
+You can read tutorial: [`pipex.tutorial.pdf`](tutorial/pipex.tutorial.pdf)
 
 
 ### Discription of mandatory part
